@@ -1,0 +1,6 @@
+acumulado = 0
+
+for dato in range(4000):
+    acumulado += 0.25
+
+print(acumulado)

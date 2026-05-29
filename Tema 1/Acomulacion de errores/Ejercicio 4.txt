@@ -1,0 +1,6 @@
+valor = 0
+
+for numero in range(6000):
+    valor += 0.13
+
+print(valor)
